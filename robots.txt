@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://melbet-download.github.io/direct-link/sitemap.xml
+Sitemap: https://melbet-download.github.io/sitemap.xml
